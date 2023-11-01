@@ -94,7 +94,7 @@ const StockAmount = styled.div`
     padding-top: 1rem;
   }
   .addToCartBtn {
-    width: 14rem;
+    width: 11rem;
     height: 3rem;
     text-align: center;
     font-weight: 500;
